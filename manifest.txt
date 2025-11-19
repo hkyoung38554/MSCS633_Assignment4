@@ -1,0 +1,35 @@
+Project: Fraud Detection with PyOD AutoEncoder
+Course: Advance Artificial Intelligence (MSCS-633-M50)
+Assignment: Hands-On Assignment 4
+
+Name: Haeri Kyoung
+Date: 2025-11-23
+
+Python version:
+  - Python 3.10 or 3.11
+
+Required libraries:
+  - numpy
+  - pandas
+  - scikit-learn
+  - pyod
+  - matplotlib
+
+Source files:
+  - fraud_autoencoder_pyod.py
+
+Data:
+  - creditcard.csv
+    Source: Kaggle "Credit Card Fraud Detection" dataset
+
+How to run:
+  1. Create and activate a virtual environment.
+  2. Install dependencies with:
+       pip install numpy pandas scikit-learn pyod matplotlib
+  3. Ensure creditcard.csv is in the same folder as fraud_autoencoder_pyod.py.
+  4. Run:
+       python fraud_autoencoder_pyod.py
+  5. Capture a screenshot of the experiment output (classification report and confusion matrix).
+
+GitHub repository URL:
+  - https://github.com/TODO
